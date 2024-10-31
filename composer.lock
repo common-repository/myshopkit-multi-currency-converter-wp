@@ -1,0 +1,101 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "69d305959119d3f81a440c004b1db480",
+    "packages": [
+        {
+            "name": "wilokecom/wiloke-jwt-sdk",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wilokecom/wiloke-jwt-sdk.git",
+                "reference": "2847af2fad33f66d71c382a1f006da64ec405e42"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wilokecom/wiloke-jwt-sdk/zipball/2847af2fad33f66d71c382a1f006da64ec405e42",
+                "reference": "2847af2fad33f66d71c382a1f006da64ec405e42",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WilokeJWTSDK\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wiloke",
+                    "email": "contact.wiloke@gmail.com"
+                }
+            ],
+            "description": "Login to Wiloke JWT SDK",
+            "time": "2021-06-16T07:30:31+00:00"
+        }
+    ],
+    "packages-dev": [
+        {
+            "name": "wilokecom/phpcli",
+            "version": "1.35",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wilokecom/phpcli.git",
+                "reference": "9dac2b1c026e13824caa0b1a576b9ea539f59e62"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wilokecom/phpcli/zipball/9dac2b1c026e13824caa0b1a576b9ea539f59e62",
+                "reference": "9dac2b1c026e13824caa0b1a576b9ea539f59e62",
+                "shasum": ""
+            },
+            "require-dev": {
+                "symfony/console": "2.6.7",
+                "symfony/filesystem": "^v5.1.2"
+            },
+            "bin": [
+                "wilokecli"
+            ],
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WilokeCommandLine\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "nguyendttn",
+                    "email": "support@wiloke.com",
+                    "homepage": "https://wiloke.com"
+                }
+            ],
+            "description": "The easiest and fastest way to create Wiloke Component",
+            "homepage": "https://github.com/wilokecom/phpcli",
+            "time": "2021-09-29T03:54:42+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

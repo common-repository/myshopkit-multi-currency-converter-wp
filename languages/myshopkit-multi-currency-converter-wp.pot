@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Myshopkit Multi Currency Converter WP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-26 10:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: myshopkit-multi-currency-converter-wp"
+
+#: src/Dashboard/Views/AuthSettings.php:20
+msgid "Application Password"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:273
+#: src/Dashboard/Controllers/AuthController.php:274
+msgid "Auth Settings"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:90
+msgid "Congrats, The data has been deleted successfully"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:120
+msgid ""
+"Congrats, The data has been got \n"
+"            successfully"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:63
+#: src/Store/Controllers/StoreController.php:107
+msgid "Congrats, Your settings have been saved successfully"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wiloke.com/product/myshopkit-multi-currency-converter/"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:250
+msgid "Invalid Application Username or Token"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:59
+#: src/Store/Controllers/StoreController.php:102
+msgid "Invalid setting format data"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:6
+msgid "Multi Currency Auth Settings"
+msgstr ""
+
+#: src/Dashboard/Controllers/DashboardController.php:58
+#: src/Dashboard/Controllers/DashboardController.php:59
+msgid "Multi Currency Dashboard"
+msgstr ""
+
+#. Name of the plugin
+msgid "Myshopkit Multi Currency Converter WP"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:241
+msgid ""
+"Please go to Users -> Profile -> Create a new Application password to "
+"complete this setting."
+msgstr ""
+
+#: myshopkit-multi-currency-converter-wp.php:39
+msgid ""
+"Please install and activate WooCommerce to use Multi Currency for "
+"WooCommerce plugin."
+msgstr ""
+
+#. Description of the plugin
+msgid "Provide localized shopping experience, increase global sales"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:34
+msgid "Revoke Purchase Code"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:30
+msgid "Save Changes"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:146
+msgid "Sorry, the application password is required"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:142
+msgid "Sorry, the username is required"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:155
+msgid "The application must belong to an Administrator account"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:184
+#: src/Dashboard/Controllers/AuthController.php:255
+msgid "The application must belong to an Administrator account."
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:126
+msgid "The purchased code is required."
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:55
+msgid "The settings is required"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:12
+msgid "Username"
+msgstr ""
+
+#. Author of the plugin
+msgid "wiloke"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:79
+msgid "You do not have permission to access this area"
+msgstr ""
+
+#: src/Store/Controllers/StoreController.php:76
+msgid "You must log into the site"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:120
+msgid "You must log into the site to use this feature."
+msgstr ""

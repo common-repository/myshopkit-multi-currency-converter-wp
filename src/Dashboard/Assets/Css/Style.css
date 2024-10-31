@@ -1,0 +1,26 @@
+/* 
+#multi-currency-dashboard  {
+    height: 100%;
+    width: 100%;
+    min-height: 800px !important;
+    max-height: 800px;
+    padding: 20px 20px 20px 0;
+    max-width: 1700px;
+} */
+
+#btn-Revoke-Purchase-Code {
+    margin-top: 20px;
+    background-color: red;
+}
+
+#toplevel_page_mskmc_dashboard .wp-menu-image img {
+    max-width: 20px;
+}
+#mskmc-converter-warning {
+    padding: 20px;
+}
+
+iframe#currency-iframe {
+    padding-top: 20px;
+    max-height: 750px;
+}
